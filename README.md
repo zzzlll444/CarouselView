@@ -1,4 +1,2 @@
-# CarouselView
-Rolling  Control
-
-Create a repository.
+# AutoRollingView
+An AutoRollingView
